@@ -73,7 +73,7 @@ int eval_exp_tree(Node* root)
         res = left / right;
     }
     
-    return res;`
+    return res;
 }
 `
 int main()
